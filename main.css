@@ -1,0 +1,48 @@
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+
+.bodylinks{
+  background-color: #a9d0ed;
+}
+
+.links{
+  font-size: 30px;
+  font-family: monospace;
+}
+
+.britishmuseum{
+  font-size: 20px;
+}
+
+.nationalgallery{
+  font-size: 20px
+}
+.tatemuseum{
+  font-size: 20px
+}
+.sothebys{
+  font-size: 20px
+}
+.sciencemuseum{
+  font-size: 20px
+}
+.nationalhistory{
+  font-size: 20px
+}
+
+.column{
+  margin: auto;
+  padding: 10px;
+}
+.column2{
+  margin: auto;
+  padding: 10px;
+}
+
+.img1:hover .overlay1{
+  opacity: 1;}
