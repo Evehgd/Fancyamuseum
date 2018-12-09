@@ -1,0 +1,101 @@
+.aboutus{
+  background-color: #dfd4e2;
+}
+
+
+.Judith {
+   float: left;
+   width: 50%;
+   height: 100%;
+   box-sizing: border-box;
+   background-color: #dfd4e2;
+   padding: 50px;
+}
+
+.Eve {
+   float: left;
+   width: 50%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: #dfd4e2;
+  padding: 50px;
+}
+
+.imgj {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #dfd4e2;
+}
+
+.imge {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+font-family: 'Romanesco', cursive !important;
+font-size: 80px !important;
+color: white;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+font-family: 'Romanesco', cursive !important;
+font-size: 80px !important;
+color: white;
+}
+
+.team{
+  background-color: #dfd4e2;
+}
+
+.textj{
+  margin-left: 120px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.texte{
+  margin-left: 120;
+  text-align: center;
+  font-size: 15px;
+}
+
+.texttop{
+  padding: 100px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.footer {
+ position: relative;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ color: white;
+ text-align: center;
+}
+
+.newsletter{
+  background-color: #dfd4e2;
+}
+
+.newstext{
+  padding: 100px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.form{
+  {
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+}
