@@ -101,6 +101,7 @@ background-color: #f2edfb;
 .image {
   display: block;
   width: 100%;
+  transform: scaleX(1.09);
   height: auto;
 }
 
@@ -115,6 +116,7 @@ background-color: #f2edfb;
   opacity: 0;
   transition: .5s ease;
   background-color: #f2edfb;
+  transform: ScaleX(1.02)
 }
 
 .container:hover .overlay {
