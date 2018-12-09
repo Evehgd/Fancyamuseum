@@ -1,20 +1,35 @@
-
+html {
+  min-height: 100%;
+  overflow-y: scroll; overflow-x:hidden;
+}
+body {
+   position: absolute;
+   background-color: #dfd4e2;
+}
 h1{
   text-align: center;
+  font-family: 'Romanesco', cursive !important;
+  font-size: 80px !important;
 }
 h2{
   text-align: center;
-}
-
-.bodylinks{
-  background-color: #a9d0ed;
+  font-size: 20px !important;
 }
 
 .links{
-  font-size: 30px;
-  font-family: monospace;
+  font-size: 100px !important;
+  font-family: Romanesco,cursive !important;
+  color: black;
+  text-align: center;
+  padding: 20px;
 }
 
+.div1{
+  text-align: center;
+}
+.div2{
+  text-align: center;
+}
 .britishmuseum{
   font-size: 20px;
 }
@@ -35,14 +50,39 @@ h2{
   font-size: 20px
 }
 
+.row{
+  padding-bottom: 200px;
+}
 .column{
   margin: auto;
-  padding: 10px;
+  padding: 2.5px;
 }
 .column2{
   margin: auto;
-  padding: 10px;
+  padding: 2.5px;
 }
 
-.img1:hover .overlay1{
-  opacity: 1;}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.textfooter {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+.div2 {
+  padding-bottom: 200px;
+}
+.linkbody{
+margin:0px;
+padding:0px;
+width:100%;
+background-color: #dfd4e2
+}
