@@ -1,110 +1,92 @@
-.aboutus{
-  background-color: ##ebcdf1;
+html {
+  min-height: 100%;
+  overflow-y: scroll; overflow-x:hidden;
 }
-
-
-.Judith {
-   float: left;
-   width: 50%;
-   height: 100%;
-   box-sizing: border-box;
-   background-color: #ebcdf1;
-   padding: 50px;
+body {
+   position: absolute;
+   background-color: #f2edfb;
 }
-
-.Eve {
-   float: left;
-   width: 50%;
-  height: 100%;
-  box-sizing: border-box;
-  background-color: #ebcdf1;
-  padding: 50px;
-}
-
-.imgj {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #ebcdf1;
-}
-
-.imge {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
-h1 {
+h1{
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
-font-family: 'Romanesco', cursive !important;
-font-size: 80px !important;
-color: #ff9c07;
+  font-family: 'Romanesco', cursive !important;
+  font-size: 80px !important;
 }
-
-h2 {
+h2{
   text-align: center;
-  margin-top: 20px;
-font-family: 'Romanesco', cursive !important;
-font-size: 80px !important;
-color: #ff9c07;
+  font-size: 20px !important;
 }
 
-.team{
-  background-color: ##ebcdf1;
-}
-
-
-.textj{
-  margin-left: 120px;
+.links{
+  font-size: 100px !important;
+  font-family: Romanesco,cursive !important;
+  color: black;
   text-align: center;
-  font-size: 15px;
+  padding: 20px;
+}
+
+.div1{
+  text-align: center;
+}
+.div2{
+  text-align: center;
+}
+.britishmuseum{
+  font-size: 20px;
+}
+
+.nationalgallery{
+  font-size: 20px
+}
+.tatemuseum{
+  font-size: 20px
+}
+.sothebys{
+  font-size: 20px
+}
+.sciencemuseum{
+  font-size: 20px
+}
+.nationalhistory{
+  font-size: 20px
+}
 
 .row{
   padding-bottom: 200px;
   margin-left:15px;
   margin-right: 100px;
-
 }
-
-.texte{
-  margin-left: 120;
-  text-align: center;
-  font-size: 15px;
+.column{
+  margin: auto;
+  padding: 2.5px;
 }
-
-.texttop{
-  padding: 100px;
-  text-align: center;
-  font-size: 25px;
+.column2{
+  margin: auto;
+  padding: 2.5px;
 }
 
 .footer {
- position: relative;
- left: 0;
- bottom: 0;
- width: 100%;
- color: white;
- text-align: center;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
 }
 
 .textfooter {
-  color: black;
-
-}
-.newsletter{
-  background-color: ##ebcdf1;
-}
-
-.newstext{
-  padding: 50px;
   text-align: center;
-  font-size: 25px;
+  color: black;
+  font-size: 20px;
 }
-.form{
-  margin-bottom: 20px;
+
+.div2 {
+  padding-bottom: 200px;
+}
+.linkbody{
+margin:0px;
+padding:0px;
+width:100%;
+background-color: #dfd4e2
 }
 
 .container {
@@ -144,3 +126,72 @@ color: #ff9c07;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+
+  .aboutus{
+    background-color: ##ebcdf1;
+  }
+
+  .Judith {
+     float: left;
+     width: 50%;
+     height: 100%;
+     box-sizing: border-box;
+     background-color: #ebcdf1;
+     padding: 50px;
+  }
+
+  .Eve {
+     float: left;
+     width: 50%;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #ebcdf1;
+    padding: 50px;
+  }
+
+  .imgj {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ebcdf1;
+  }
+
+  .imge {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .team{
+    background-color: ##ebcdf1;
+  }
+
+  .textj !important{
+    margin-left: 120px;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .texttop{
+    padding: 100px;
+    text-align: center;
+    font-size: 25px;
+    }
+  .texte !important{
+    margin-left: 120;
+    text-align: center;
+    font-size: 15px;
+  }
+  .newsletter{
+    background-color: ##ebcdf1;
+  }
+
+  .newstext{
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+  }
+
+.footer2 {
+  padding:200px;
+}
