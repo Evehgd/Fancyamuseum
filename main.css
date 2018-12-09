@@ -6,16 +6,21 @@ body {
    position: absolute;
    background-color: #f2edfb;
 }
-h1{
+h1 {
   text-align: center;
-  font-family: 'Romanesco', cursive !important;
-  font-size: 80px !important;
-}
-h2{
-  text-align: center;
-  font-size: 20px !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+font-family: 'Romanesco', cursive !important;
+font-size: 80px !important;
+color: #ff9c07;
 }
 
+h2 {
+  text-align: center;
+  margin-top: 20px;
+font-size: 25px !important;
+color: #ff9c07;
+}
 .links{
   font-size: 100px !important;
   font-family: Romanesco,cursive !important;
@@ -86,7 +91,7 @@ h2{
 margin:0px;
 padding:0px;
 width:100%;
-background-color: #dfd4e2
+background-color: #f2edfb;
 }
 
 .container {
@@ -126,72 +131,88 @@ background-color: #dfd4e2
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
+}
 
-  .aboutus{
-    background-color: ##ebcdf1;
-  }
+.team{
+  background-color: ##ebcdf1;
+}
 
-  .Judith {
-     float: left;
-     width: 50%;
-     height: 100%;
-     box-sizing: border-box;
-     background-color: #ebcdf1;
-     padding: 50px;
-  }
 
-  .Eve {
-     float: left;
-     width: 50%;
-    height: 100%;
-    box-sizing: border-box;
-    background-color: #ebcdf1;
-    padding: 50px;
-  }
+.textj{
+  margin-left: 120px;
+  text-align: center;
+  font-size: 15px;
+}
 
-  .imgj {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: #ebcdf1;
-  }
+.texte{
+  margin-left: 120;
+  text-align: center;
+  font-size: 15px;
+}
 
-  .imge {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+.texttop{
+  padding: 100px;
+  text-align: center;
+  font-size: 25px;
+}
 
-  .team{
-    background-color: ##ebcdf1;
-  }
+.footer {
+ position: relative;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ color: white;
+ text-align: center;
+}
 
-  .textj !important{
-    margin-left: 120px;
-    text-align: center;
-    font-size: 15px;
-  }
+.textfooter {
+  color: black;
 
-  .texttop{
-    padding: 100px;
-    text-align: center;
-    font-size: 25px;
-    }
-  .texte !important{
-    margin-left: 120;
-    text-align: center;
-    font-size: 15px;
-  }
-  .newsletter{
-    background-color: ##ebcdf1;
-  }
+}
 
-  .newstext{
-    padding: 50px;
-    text-align: center;
-    font-size: 25px;
-  }
+.newsletter {
+background-color: #f2edfb;
+}
 
-.footer2 {
-  padding:200px;
+.newstext{
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+.form{
+  margin-bottom: 20px;
+}
+.Judith {
+   float: left;
+   width: 50%;
+   height: 100%;
+   box-sizing: border-box;
+   background-color: #ebcdf1;
+   padding: 50px;
+}
+
+.Eve {
+   float: left;
+   width: 50%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: #ebcdf1;
+  padding: 50px;
+}
+
+.imgj {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ebcdf1;
+}
+
+.imge {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.aboutus{
+  background-color: #f2edfb;
 }
