@@ -1,92 +1,110 @@
-html {
-  min-height: 100%;
-  overflow-y: scroll; overflow-x:hidden;
-}
-body {
-   position: absolute;
-   background-color: #f2edfb;
-}
-h1{
-  text-align: center;
-  font-family: 'Romanesco', cursive !important;
-  font-size: 80px !important;
-}
-h2{
-  text-align: center;
-  font-size: 20px !important;
+.aboutus{
+  background-color: ##ebcdf1;
 }
 
-.links{
-  font-size: 100px !important;
-  font-family: Romanesco,cursive !important;
-  color: black;
-  text-align: center;
-  padding: 20px;
+
+.Judith {
+   float: left;
+   width: 50%;
+   height: 100%;
+   box-sizing: border-box;
+   background-color: #ebcdf1;
+   padding: 50px;
 }
 
-.div1{
-  text-align: center;
-}
-.div2{
-  text-align: center;
-}
-.britishmuseum{
-  font-size: 20px;
+.Eve {
+   float: left;
+   width: 50%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: #ebcdf1;
+  padding: 50px;
 }
 
-.nationalgallery{
-  font-size: 20px
+.imgj {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ebcdf1;
 }
-.tatemuseum{
-  font-size: 20px
+
+.imge {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-.sothebys{
-  font-size: 20px
+
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+font-family: 'Romanesco', cursive !important;
+font-size: 80px !important;
+color: #ff9c07;
 }
-.sciencemuseum{
-  font-size: 20px
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+font-family: 'Romanesco', cursive !important;
+font-size: 80px !important;
+color: #ff9c07;
 }
-.nationalhistory{
-  font-size: 20px
+
+.team{
+  background-color: ##ebcdf1;
 }
+
+
+.textj{
+  margin-left: 120px;
+  text-align: center;
+  font-size: 15px;
 
 .row{
   padding-bottom: 200px;
   margin-left:15px;
   margin-right: 100px;
+
 }
-.column{
-  margin: auto;
-  padding: 2.5px;
+
+.texte{
+  margin-left: 120;
+  text-align: center;
+  font-size: 15px;
 }
-.column2{
-  margin: auto;
-  padding: 2.5px;
+
+.texttop{
+  padding: 100px;
+  text-align: center;
+  font-size: 25px;
 }
 
 .footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
+ position: relative;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ color: white;
+ text-align: center;
 }
 
 .textfooter {
-  text-align: center;
   color: black;
-  font-size: 20px;
+
+}
+.newsletter{
+  background-color: ##ebcdf1;
 }
 
-.div2 {
-  padding-bottom: 200px;
+.newstext{
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
 }
-.linkbody{
-margin:0px;
-padding:0px;
-width:100%;
-background-color: #dfd4e2
+.form{
+  margin-bottom: 20px;
 }
 
 .container {
