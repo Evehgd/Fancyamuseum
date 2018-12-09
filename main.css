@@ -1,0 +1,88 @@
+html {
+  min-height: 100%;
+  overflow-y: scroll; overflow-x:hidden;
+}
+body {
+   position: absolute;
+   background-color: #dfd4e2;
+}
+h1{
+  text-align: center;
+  font-family: 'Romanesco', cursive !important;
+  font-size: 80px !important;
+}
+h2{
+  text-align: center;
+  font-size: 20px !important;
+}
+
+.links{
+  font-size: 100px !important;
+  font-family: Romanesco,cursive !important;
+  color: black;
+  text-align: center;
+  padding: 20px;
+}
+
+.div1{
+  text-align: center;
+}
+.div2{
+  text-align: center;
+}
+.britishmuseum{
+  font-size: 20px;
+}
+
+.nationalgallery{
+  font-size: 20px
+}
+.tatemuseum{
+  font-size: 20px
+}
+.sothebys{
+  font-size: 20px
+}
+.sciencemuseum{
+  font-size: 20px
+}
+.nationalhistory{
+  font-size: 20px
+}
+
+.row{
+  padding-bottom: 200px;
+}
+.column{
+  margin: auto;
+  padding: 2.5px;
+}
+.column2{
+  margin: auto;
+  padding: 2.5px;
+}
+
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.textfooter {
+  text-align: center;
+  color: black;
+  font-size: 20px;
+}
+
+.div2 {
+  padding-bottom: 200px;
+}
+.linkbody{
+margin:0px;
+padding:0px;
+width:100%;
+background-color: #dfd4e2
+}
