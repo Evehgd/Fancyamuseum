@@ -56,10 +56,17 @@ color: #ff9c07;
   background-color: ##ebcdf1;
 }
 
+
 .textj{
   margin-left: 120px;
   text-align: center;
   font-size: 15px;
+
+.row{
+  padding-bottom: 200px;
+  margin-left:15px;
+  margin-right: 100px;
+
 }
 
 .texte{
@@ -102,7 +109,6 @@ color: #ff9c07;
 
 .container {
   position: relative;
-  width: 50%;
 }
 
 .image {
@@ -121,7 +127,7 @@ color: #ff9c07;
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: palegoldenrod;
+  background-color: #f2edfb;
 }
 
 .container:hover .overlay {
@@ -129,7 +135,7 @@ color: #ff9c07;
 }
 
 .text {
-  color: white;
+  color: black;
   font-size: 20px;
   position: absolute;
   top: 50%;
