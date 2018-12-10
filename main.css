@@ -124,8 +124,8 @@ background-color: #f2edfb;
 }
 
 .text {
-  color: black;
-  font-size: 20px;
+  color: orange;
+  font-size: 15px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -135,8 +135,17 @@ background-color: #f2edfb;
   text-align: center;
 }
 
+.video {
+  margin-left: 420px;
+}
+
+.textice {
+  color: black;
+}
 .team{
-  background-color: ##ebcdf1;
+  background-color: #ebcdf1;
+  padding-bottom: 10px;
+
 }
 
 
