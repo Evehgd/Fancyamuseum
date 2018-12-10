@@ -236,3 +236,11 @@ background-color: #f2edfb;
 .aboutus{
   background-color: #f2edfb;
 }
+
+.carousel-item{
+  width: 100%;
+}
+.carousel{
+  width: 50%;
+  margin-left: 25%;
+}
