@@ -21,6 +21,10 @@ h2 {
 font-size: 25px !important;
 color: #ff9c07;
 }
+
+.navbar {
+  background: white;
+}
 .links{
   font-size: 100px !important;
   font-family: Romanesco,cursive !important;
