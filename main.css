@@ -117,9 +117,10 @@ background-color: #f2edfb;
   right: 0;
   height: 300px;
   width: 100%;
+  margin-left: 14px;
   opacity: 0;
   transition: .5s ease;
-  background-color: #f2edfb;
+  background-color: #f58b33;
 }
 
 .image:hover .overlay {
@@ -127,7 +128,7 @@ background-color: #f2edfb;
 }
 
 .text {
-  color: orange;
+  color: white;
   font-size: 15px;
   position: absolute;
   top: 50%;
@@ -145,12 +146,17 @@ background-color: #f2edfb;
 .textice {
   color: black;
 }
+
 .team{
   background-color: #ebcdf1;
   padding-bottom: 10px;
-
 }
 
+.team h2 {
+  color: white;
+  font-family: 'Romanesco', cursive;
+  font-size: 80px !important;
+}
 
 .textj{
   margin-left: 120px;
